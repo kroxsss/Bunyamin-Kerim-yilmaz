@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'Kerim</h3>
+<h3 align="center">Hi 👋, I'm Enes</h3>
 <h3 align="center">Unity Developer</h3>
 <div style="display: inline_block" align="center">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
@@ -9,18 +9,67 @@
   </br>  </br>
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/bunyamin-kerim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:enesozdemir6167@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/e-ozdemir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://enesozdemir.medium.com" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   
-  <h3 align="center">Personal Projects</h3>
+<h3 align="center">Personal Projects</h3>
   
-  <table align="center">
+<table align="center">
 <tr>
 <td>
-<a href="https://github.com/kroxsss/BLOCKBLOCK" img align="center">
+<a href="https://github.com/enes-ozdemir/Castle-Defense" img align="center">
   </br>
-  <img align="center" src="https://camo.githubusercontent.com/d37d112ce83a838a1093f413ce846ced6d46e4312b368d5790c49fcdadca6e8f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f644a6e6433734f38723972425f68565f456d596953414472486545416b6f6d2d47395168514645354575514b664b2d5a516e2d396d6c3441356f796c4d774e4e494e6268655f632d726b44624c3879696941335871413d77353132302d68323838302d7277"  width="500" >
-   <img align="center" src="https://camo.githubusercontent.com/31b5ff55d0fbb09e3782ba15d210cc2988f3c591ba5bd66deafa58140e3cf686/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f476b5179523738704c6a46756d7031306e58555355682d43344b32714442565f70703773744f746836655f626631346a526a6b432d3578356f676771453142382d7070526747626964446773532d634874674f635262343d77313035322d683539322d7277" > 
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Castle-Defense&theme=github_dark"  width="500" >
+   <img align="center" src="https://user-images.githubusercontent.com/41696219/224488546-382a2a06-6bf3-474d-9ebe-49f7a06a9b5d.png" width="500" > 
 </a>
 </td>
 <td>
+<a href="https://github.com/enes-ozdemir/RPG-Project" img align="center">
+  </br>
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=RPG-Project&theme=github_dark" width="500"/>
+   <img align="center" src="https://github.com/enes-ozdemir/enes-ozdemir/assets/41696219/d48e9b2e-aaf6-46e2-8f92-9a319e427364" width="500""> 
+</a>
+</td>
+</tr>
+<tr>
+  <td align="center">
+
+  <a href="https://github.com/enes-ozdemir/Space-Trader" img align="center">
+  </br>
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=Space-Trader&theme=github_dark" width="500"/>
+   <img align="center" src="https://camo.githubusercontent.com/846dea9dee6a77a3e790a70f156c013d00d64302c2a5451f1ef5bf53147f40d5/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d54677a4d6a6b304e6938784d4463314e7a49334e433577626d633d2f6f726967696e616c2f66467958515a2e706e67" width="500"> 
+
+</td>
+<td align="center">
+<a href="https://github.com/enes-ozdemir/RPG-Systems" img align="center">
+  </br>
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=enes-ozdemir&repo=RPG-Systems&theme=github_dark"  width="500"/>
+   <img align="center" src="https://github.com/enes-ozdemir/enes-ozdemir/assets/41696219/b6da31a4-9879-4d85-b4ae-c79a952ecb9c" width="500""> 
+</a>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+<h3 align="center">Collaborated On</h3>
+<a href="https://github.com/EvilMindDevs/hms-unity-plugin">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-unity-plugin&theme=radical" />
+</a>
+<a href="https://github.com/EvilMindDevs/hms-sdk-unity">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=EvilMindDevs&repo=hms-sdk-unity&theme=radical" />
+</a>
+  <a href="https://github.com/Explore-In-HMS/huawei.ads.admob_mediation">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.admob_mediation&theme=radical" />
+</a>
+  <a href="https://github.com/Explore-In-HMS/huawei.ads.smartadsserver_mediation">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.smartadsserver_mediation&theme=radical" />
+</a>
+
+<h3 align="center">Stats</h3>
+<div align="center">
+  <a href="https://github.com/enes-ozdemir">
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=enes-ozdemir&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    
 </div>
