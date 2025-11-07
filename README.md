@@ -10,7 +10,9 @@
   
 <div align="center">
   <a href="https://www.linkedin.com/in/bunyamin-kerim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   <h3 align="center">Personal Projects</h3>
+  
   <table align="center">
 <tr>
 <td>
@@ -21,3 +23,4 @@
 </a>
 </td>
 <td>
+</div>
